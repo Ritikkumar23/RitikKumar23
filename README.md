@@ -29,6 +29,22 @@
 
 ---
 
+### 🏆 **Coding Profiles**
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ritik23kr" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  <a href="https://leetcode.com/ritik23kr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ritikioeb/profile" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
+  </a>
+</p>
+
+---
+
 ### 📊 **GitHub Stats**
 
 <p align="center">
@@ -62,7 +78,7 @@
 
 ### 🎯 **Hobbies & Interests**
 
-- ⚽️ Playing sports (especially Basketball,Cricket & Badminton).
+- ⚽️ Playing sports (especially Basketball, Cricket & Badminton).
 - 🎵 Listening to music.
 - 💻 Building projects and exploring new tech.
 - 📚 Reading tech blogs & articles.
