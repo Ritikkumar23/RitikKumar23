@@ -79,6 +79,15 @@
 
 ---
 
+---
+
+### 🐍 **My Contribution Snake**
+
+<p align="center">
+  <img src="https://github.com/Ritikkumar23/Ritikkumar23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+
 ### ✨ **Fun Fact**
 
 > “Talk is cheap. Show me the code.” - Linus Torvalds
